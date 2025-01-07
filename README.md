@@ -19,7 +19,7 @@ Systems analyst working as embedded systems development with 3 years of experien
 
 I am currently specializing in the development of web systems, using technologies such as: HTML, CSS, Javascript, React, Node and Python.
 
-My biggest professional achievement so far was founding a technology company focused on developing solutions for the broiler industry. I participated in several processes, from the initial development of the MVP to the capture of private investment funds, in which they total approximately R$ 4M.
+My biggest professional achievement so far was founding a technology company focused on developing solutions for the broiler industry. I participated in several processes, from the initial development of the MVP to the capture of private investment funds, in which they total approximately 2 million USD.
 
 
 Skill:
