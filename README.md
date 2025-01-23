@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Systems analyst working as embedded systems development with 3 years of experience, using technologies such as ESP32, LoRa (Long Distance Communication Technology with Low Power Consumption) and ARM microcontrollers.
+Systems analyst working as embedded systems development with 8 years of experience, using technologies such as ESP32, LoRa (Long Distance Communication Technology with Low Power Consumption) and ARM microcontrollers.
 
 I am currently specializing in the development of web systems, using technologies such as: HTML, CSS, Javascript, React, Node and Python.
 
