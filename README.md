@@ -1,49 +1,66 @@
+# Genoino Sonda Junior
 
-# 👋 Olá, sou o Genoino!
+**Fundador da Trinovati | Arquiteto de Soluções IoT | Especialista em Engenharia de Produtos Embarcados**
 
-Sou **desenvolvedor de soluções embarcadas**, **desenvolvedor de software** e **especialista em tecnologia** com mais de **8 anos de experiência** no desenvolvimento de projetos inovadores. Tenho paixão por criar soluções que unam **hardware e software** para resolver problemas reais em diversos setores, especialmente na **indústria** e no **agronegócio**.
+Olá, sou Genoino — fundador da Trinovati Tecnologia, arquiteto das soluções que sustentam operações críticas em grandes indústrias e líder em inovação aplicada ao agronegócio e à indústria 4.0.
 
-## 🛠️ Áreas de Expertise  
+Com mais de 10 anos de experiência em **engenharia de sistemas embarcados, conectividade IoT e liderança em P&D**, conduzo o desenvolvimento de tecnologias proprietárias que resolveram problemas que grandes players do mercado ainda não conseguiram endereçar.
 
-### **1. Desenvolvimento de Sistemas Embarcados**  
-- Experiência avançada com **ESP32**, **FreeRTOS** e tecnologias de **conectividade IoT** como **LoRa**.  
-- Criação de firmware robusto para dispositivos industriais e soluções inteligentes de monitoramento.
-
-### **2. Internet das Coisas (IoT)**  
-- Concepção de projetos que conectam dispositivos em áreas remotas e ambientes industriais.  
-- Integração de sensores e atuadores para capturar grandezas físicas com alta precisão.  
-
-### **3. Programação de Software**  
-- **Linguagens:** C, Python, Golang (em aprendizado).  
-- Desenvolvimento de aplicações backend com **Flask** e integração de sistemas.  
-
-### **4. Liderança em P&D**  
-- Coordeno todas as etapas de **pesquisa e desenvolvimento**: levantamento de requisitos, modelagem, desenvolvimento de hardware e firmware, testes, validação e implantação em campo.  
-- Experiência em criação de processos produtivos e qualificação de fornecedores.  
-
-## 🌟 Projetos Destaques  
-
-- **Silometria:** Tecnologia pioneira no Brasil que utiliza LIDAR para monitorar e calcular o volume de ração em silos com alta precisão.  
-- **Balança de Precisão:** Desenvolvimento de uma balança inteligente para pesagem individual de frangos, superando tecnologias de grandes players internacionais.  
-- **Conectividade Rural:** Implantação de redes 4G em propriedades rurais, levando conectividade a áreas remotas e desafiadoras.
-
-## 📈 Diferenciais Profissionais  
-
-- **Experiência Prática:** Mais de 8 anos trabalhando no desenvolvimento de produtos que impactam positivamente grandes indústrias.  
-- **Perfil Resolutivo:** Habilidade em enfrentar desafios técnicos complexos com soluções criativas e eficazes.  
-- **Visão Estratégica:** Capacidade de alinhar tecnologia com objetivos de negócio para gerar resultados tangíveis.  
-- **Liderança Técnica:** Expertise em conduzir projetos do conceito à execução, entregando qualidade e inovação.  
-
-## 🎯 Objetivo  
-
-Minha meta é continuar desenvolvendo **tecnologias disruptivas** que agreguem valor e proporcionem impacto positivo, sempre alinhando inovação, qualidade e eficiência. Sou movido por desafios e pela constante busca de **aprendizado e evolução** em minha carreira.
+Sou responsável por criar, escalar e entregar **produtos que integram hardware, firmware e estratégia de negócio** — da bancada ao campo.
 
 ---
 
-### 🌐 Entre em Contato  
+## 🛠️ Áreas de Especialidade
 
-- **LinkedIn:** https://www.linkedin.com/in/genoino/
-- **E-mail:** genoino.jr@gmail.com  
+### 1. Sistemas Embarcados & IoT Industrial
+- Desenvolvimento avançado com ESP32, FreeRTOS, LoRa e comunicação Modbus.
+- Firmware robusto para dispositivos que operam em ambientes críticos e remotos.
+
+### 2. Engenharia de Produto
+- Criação de soluções do zero: levantamento de requisitos, modelagem, concepção do hardware, design de software, testes, validação e implantação em campo.
+- Domínio total do ciclo de P&D com foco em confiabilidade e escalabilidade.
+
+### 3. Software Backend & Integração de Sistemas
+- Programação em C, Java, Python e Golang (em desenvolvimento).
+- Backend com Flask e integração entre dispositivos IoT e infraestrutura de dados.
+
+### 4. Liderança Técnica Estratégica
+- Condução de núcleos de inovação com foco em performance, escala e impacto direto no cliente.
+- Interface direta entre tecnologia e negócio, entregando soluções com ROI tangível.
 
 ---
 
+## 🌟 Projetos Relevantes
+
+**🔹 Silometria Inteligente**  
+Tecnologia pioneira no Brasil utilizando LIDAR e algoritmos de volume para monitoramento de silos em tempo real.
+
+**🔹 Balança Individual de Frangos**  
+Solução embarcada com inteligência de individualização — superando o estado-da-arte de players internacionais.
+
+**🔹 Conectividade Rural 4G**  
+Infraestrutura de telecomunicação projetada para levar internet a propriedades sem acesso, operando em cenários extremos.
+
+---
+
+## 📈 Diferenciais
+
+- Domínio técnico aplicado ao campo real
+- Capacidade de liderar, executar e entregar com independência total
+- Visão de negócio alinhada com a engenharia
+- Histórico de criação de soluções proprietárias e inigualáveis no setor
+
+---
+
+## 🎯 Missão
+
+Transformar tecnologia em vantagem competitiva real.  
+Desenvolver produtos que impactem diretamente a produtividade, eficiência e inteligência de operação de grandes indústrias.  
+**Ser referência nacional em soluções embarcadas e inovação industrial.**
+
+---
+
+## 📬 Contato
+
+🔗 [LinkedIn](https://www.linkedin.com/in/genoino/)  
+✉️ genoino.jr@gmail.com
